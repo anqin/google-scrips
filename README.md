@@ -5,7 +5,7 @@
 3. Click the save icon
 4. Click the "Run" menu
 5. Click the "Install" submenu entry and then click the "Run" botton
-6. Wait a few days, it will delete 10,0000 unread messages each 10 minutes
+6. Wait a few days, it will delete 100,000 unread messages at a rate of 500 every 10 minutes
 
 ``` javascript
 function Intialize() {
