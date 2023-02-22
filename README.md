@@ -1,4 +1,4 @@
-# Remove script for Gmail
+# Remove script for Gmail // 批量删除Gmail邮件
 
 1. Go to https://script.google.com and create a new script
 2. Copy the following codes to the script input
