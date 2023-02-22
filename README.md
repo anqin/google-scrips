@@ -4,7 +4,7 @@
 2. Copy the following codes to the script input
 3. Click the save icon
 4. Click the "Run" menu
-5. Click the "Install" submenu entry and then click the "Run"
+5. Click the "Install" submenu entry and then click the "Run" botton
 6. Wait a few days, it will delete 10,0000 unread messages in a few days
 
 ``` javascript
